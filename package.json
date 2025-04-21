@@ -1,0 +1,31 @@
+{
+    "name": "log-js",
+    "version": "1.0.0",
+    "description": "Stylized and environment-aware logging utility for JavaScript by digitalMood.",
+    "main": "Log.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"No test specified\" && exit 0"
+    },
+    "keywords": [
+      "console",
+      "log",
+      "logger",
+      "debug",
+      "utility",
+      "javascript",
+      "development",
+      "digitalmood"
+    ],
+    "author": "digitalMood",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/digita-mood/log-js.git"
+    },
+    "bugs": {
+      "url": "https://github.com/digita-mood/log-js/issues"
+    },
+    "homepage": "https://github.com/digita-mood/log-js#readme"
+  }
+  

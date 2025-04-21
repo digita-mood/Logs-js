@@ -1,0 +1,24 @@
+# Ignorar configs locales
+.vscode/
+.idea/
+.env*
+
+# Ignorar tests o ejemplos si no querés publicarlos
+test/
+tests/
+__tests__/
+examples/
+demo/
+
+# Ignorar archivos innecesarios
+*.log
+*.md~
+*.bak
+
+# Ignorar control de versiones
+.git/
+.gitignore
+
+# Ignorar archivos de empaquetado
+webpack.config.js
+rollup.config.js
